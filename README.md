@@ -1,2 +1,2 @@
 # Puzzle
-Simple puzzle game
+Simple puzzle game with JavaFX
